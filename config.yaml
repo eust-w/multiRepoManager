@@ -1,0 +1,9 @@
+pullRepoPath:
+#  - C:\workspace\projects\algorithm_by_python
+#  - C:\workspace\projects\Digital-media-master
+pushRepoPath:
+  - C:\workspace\projects\self-complementary
+#  - C:\workspace\projects\Digital-media-master
+#  - C:\workspace\projects\algorithm_by_python
+proxy: C:\apps\v2rayN-Core\v2rayN.exe
+proxyName: v2rayN.exe
